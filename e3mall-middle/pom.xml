@@ -22,7 +22,6 @@
 		<module>e3mall-middle-dao</module>
 		<module>e3mall-middle-service</module>
 		<module>e3mall-middle-interface</module>
-		<module>e3mall-middle-web</module>
 	</modules>
 	
 	<build>
